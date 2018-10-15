@@ -1,0 +1,29 @@
+#color-p{
+    border-bottom: 1px solid #e6e6e6;
+    padding-bottom: 5px;
+}
+p{
+    margin-bottom: 0;
+}
+.card-title{
+    margin-bottom: 0;
+    font-size: 15px;
+}
+h1{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+.main-div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#content-div{
+    margin: 10px;
+   border: 1px solid transparent
+}
+#content-div :hover{
+    border: 1px solid #e6e6e6;
+    cursor: pointer;
+}
